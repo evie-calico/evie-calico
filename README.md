@@ -1,5 +1,5 @@
-<img src="luvui.png" width=32/> <img src="apple.png" width=32/> <img src="scarf.png" width=32/> <img src="aris.png" width=32/> <img src="pear.png" width=32/> <img src="bastet.png" width=32/> <img src="reviver_seed.png" width=32/> <img src="twig.png" width=32/> <img src="purefruit.png" width=32/> <img src="luvui-sleep.png" width=32/> <img src="pepper.png" width=32/> <img src="aloe.png" width=32/> <img src="kangaroo.h.png" width=32/>
+My personal projects will no longer by hosted on github because i find copilot and microsoft more broadly to be objectionable. You can find them at https://git.bstream.run instead.
 
-<img src="https://github-readme-stats.vercel.app/api?username=evie-calico&show_icons=true&theme=omni&hide_border=true&border_radius=10&hide_rank=true" height=180/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evie-calico&langs_count=6&layout=compact&theme=omni&hide_border=true&border_radius=10&exclude_repo=kdl-dx" height=180/>
+My git forge is not is not open for registration, but if you know how to contact me i can create an account for you/open issues/accept patches etc.
 
-<img src="https://github.com/evie-calico/esprit/assets/14899090/3c3cd93b-a5e5-4717-8e7a-60533293bd12" width=24%/> <img src="https://github.com/evie-calico/esprit/assets/14899090/7df06aa4-ed79-461e-b67c-10ed729d785a" width=24%/> <img src="https://github.com/evie-calico/esprit/assets/14899090/22f68f8d-a4c8-4374-a075-7fefc2aa25b3" width=24%/> <img src="https://github.com/evie-calico/esprit/assets/14899090/d18b33f1-30b9-49ad-8144-8c27dba94990" width=24%/>
+forgefed will be supported as soon as possible, though any proprietary closed source forges implementing the protocol will be blocked (hi github!)
